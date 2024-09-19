@@ -2,6 +2,8 @@
 
 This is a backend application for a voting system where users can vote for candidates. It provides functionalities for user authentication, candidate management, and voting.
 
+![Screenshot (81)](https://github.com/user-attachments/assets/1fe70e28-9b16-4e8d-a52d-f729635bcb09)
+
 ## Features
 
     - User sign up and login with Aadhar Card Number and password
@@ -59,4 +61,3 @@ This is a backend application for a voting system where users can vote for candi
     ### Change Password
     - `PUT /users/profile/password`: Change user password
 
-    ![Screenshot (81)](https://github.com/user-attachments/assets/3afef12d-e3d2-4edc-b6cd-8ccdbb411d30)
